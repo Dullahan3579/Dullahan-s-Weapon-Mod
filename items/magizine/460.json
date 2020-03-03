@@ -1,3 +1,4 @@
+[
 {
     "id": "m1911mag460",
     "looks_like": "m1911mag",
@@ -32,3 +33,4 @@
     "reliability": 10,
     "flags": [ "MAG_COMPACT" ]
   }
+]
