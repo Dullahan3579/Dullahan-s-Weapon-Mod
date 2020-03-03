@@ -1,0 +1,9 @@
+  {
+    "type": "MOD_INFO",
+    "ident": "wip weapons",
+    "name": "wip weapon mod",
+    "authors": [ "Your name here", "Your friend's name if you want" ],
+    "description": "Asorted firearms",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }

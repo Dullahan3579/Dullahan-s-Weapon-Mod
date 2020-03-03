@@ -1,0 +1,42 @@
+
+weapons:
+
+neostead (12 gauge)
+mp5/10 (10mm auto)
+glock 20 (10mm auto)
+LAR grizzly MK IV (44 winchester)
+LAR grizzly MK V (.50 AE)
+stirling smg (9x19)
+HK51B (5.56)
+HK23E (5.56)
+Ithaca 37 (12 gauge)
+AR18 (5.56)
+FN FNC(5.56)
+Mateba 2006m (357)
+MP9 (9x19)
+vz 58 (7.62x39)
+vz 61 (32acp)
+SVD (7.62x51R)
+SVU (7.62x51R)
+PSL (7.62x51R)
+XP100 (5.56)
+K98 (7.92x57 mauser)
+Mauser C96 (9x19)
+enfeild MKIII (303.)
+
+weapon mods:
+460 rowland conversion
+
+magazines:
+grizzly MK IV 7rnd(44.)
+grizzly MK V 7rnd(50. AE)
+vz 61 10rnd (32)
+vz 61 20rnd (32)
+mp5/10 30rnd (10mm)
+glock 20 10rnd (10mm)
+svd 10rnd (7.62x51R)
+svd 20rnd (7.62x51R)
+MP9 30rnd (9x19)
+k98 clip(7.92x57 mauser)
+c96 clip(9x19)
+303. clip (303.)
