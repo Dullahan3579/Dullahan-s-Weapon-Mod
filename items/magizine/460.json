@@ -1,5 +1,5 @@
 [
-{
+ {
     "id": "m1911mag460",
     "looks_like": "m1911mag",
     "type": "MAGAZINE",
@@ -20,7 +20,7 @@
     "id": "m1911mag460long",
     "looks_like": "m1911mag",
     "type": "MAGAZINE",
-    "name": { "str": "M1911 460.rowland magazine" },
+    "name": { "str": "M1911 460.rowland High capacity magazine" },
     "description": "A  10-round magazine for use with the 460.rowland conversion of a M1911 handgun.",
     "weight": "70 g",
     "volume": "250 ml",

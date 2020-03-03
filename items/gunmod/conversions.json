@@ -13,7 +13,7 @@
     "symbol": ":",
     "color": "green",
     "location": "bore",
-    "mod_targets": [ "1911" ],
+    "mod_targets": [ "m1911" ],
     "install_time": "1 m",
     "ammo_modifier": [ "460" ],
     "magazine_adaptor": [ [ "460", [ "m1911mag460", "1911mag460long"] ] ],
