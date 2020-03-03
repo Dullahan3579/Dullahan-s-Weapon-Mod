@@ -1,0 +1,17 @@
+{
+    "id": "sterlingmag",
+    "looks_like": "mp5mag",
+    "type": "MAGAZINE",
+    "name": { "str": "Sterling magazine" },
+    "description": "A Sterling SMG magazine, comonly considered one of the best magazines ever made.",
+    "weight": "255 g",
+    "volume": "500 ml",
+    "price": 4000,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9mm",
+    "capacity": 32,
+    "reliability": 10,
+    "flags": [ "MAG_COMPACT" ]
+  },
