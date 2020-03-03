@@ -1,0 +1,23 @@
+[
+  {
+    "id": "retool_1911_460",
+    "type": "GUNMOD",
+    "name": { "str": ".460 rowland 1911 conversion kit" },
+    "description": "A kit containing a barrel and recoil spring. unfortunatly the muzzle breake is not included.",
+    "weight": "1000 g",
+    "volume": "500 ml",
+    "integral_volume": "0 ml",
+    "integral_weight": "0 g",
+    "price": 50000,
+    "material": "steel",
+    "symbol": ":",
+    "color": "green",
+    "location": "bore",
+    "mod_targets": [ "1911" ],
+    "install_time": "1 m",
+    "ammo_modifier": [ "460_rowland" ],
+    "magazine_adaptor": [ [ "460_rowland", [ "stanag30", "stanag50", "survivor223mag" ] ] ],
+    "min_skills": [ [ "weapon", 1 ] ],
+    "flags": [ "IRREMOVABLE" ]
+  }
+]
