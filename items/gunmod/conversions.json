@@ -16,7 +16,7 @@
     "mod_targets": [ "1911" ],
     "install_time": "1 m",
     "ammo_modifier": [ "460" ],
-    "magazine_adaptor": [ [ "460", [ "stanag30", "stanag50", "survivor223mag" ] ] ],
+    "magazine_adaptor": [ [ "460", [ "m1911mag460", "1911mag460long"] ] ],
     "min_skills": [ [ "weapon", 1 ] ],
     "flags": [ "IRREMOVABLE" ]
   }
