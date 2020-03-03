@@ -1,10 +1,9 @@
-
 weapons:
 
 neostead (12 gauge)
 mp5/10 (10mm auto)
 glock 20 (10mm auto)
-LAR grizzly MK IV (44 winchester)
+LAR grizzly MK IV (44 magnum)
 LAR grizzly MK V (.50 AE)
 stirling smg (9x19)
 HK51B (5.56)
@@ -23,6 +22,7 @@ XP100 (5.56)
 K98 (7.92x57 mauser)
 Mauser C96 (9x19)
 enfeild MKIII (303.)
+Delta Elite(10mm auto)
 
 weapon mods:
 460 rowland conversion
@@ -40,3 +40,8 @@ MP9 30rnd (9x19)
 k98 clip(7.92x57 mauser)
 c96 clip(9x19)
 303. clip (303.)
+1911 8rnd (10mm auto)
+
+ammo:
+7.92x57 mauser
+303. british
