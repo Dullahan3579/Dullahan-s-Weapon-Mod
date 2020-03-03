@@ -16,7 +16,7 @@
     "mod_targets": [ "m1911" ],
     "install_time": "1 m",
     "ammo_modifier": [ "460" ],
-    "magazine_adaptor": [ [ "460", [ "m1911mag460", "1911mag460long"] ] ],
+    "magazine_adaptor": [ [ "460", [ "m1911mag460", "m1911mag460long"] ] ],
     "min_skills": [ [ "weapon", 1 ] ],
     "flags": [ "IRREMOVABLE" ]
   }
