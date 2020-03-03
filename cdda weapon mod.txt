@@ -1,11 +1,11 @@
 weapons:
 
-neostead (12 gauge)
+neostead (12 gauge) added/stat ajustment needed
 mp5/10 (10mm auto)
 glock 20 (10mm auto)
 LAR grizzly MK IV (44 magnum)
 LAR grizzly MK V (.50 AE)
-stirling smg (9x19)
+stirling smg (9x19) added/stat ajustment needed
 HK51B (5.56)
 HK23E (5.56)
 Ithaca 37 (12 gauge)
@@ -23,9 +23,13 @@ K98 (7.92x57 mauser)
 Mauser C96 (9x19)
 enfeild MKIII (303.)
 Delta Elite(10mm auto)
+MG3 (7.62x51)
+Stoner 63A (5.56)
+CBJ MS (9x19)
+Spectre M4(9x19)
 
 weapon mods:
-460 rowland conversion
+460 rowland conversion. added/stat ajustment needed
 
 magazines:
 grizzly MK IV 7rnd(44.)
