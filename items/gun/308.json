@@ -54,7 +54,7 @@
     "ranged_damage": 1,
     "dispersion": 240,
     "durability": 8,
-    "min_cycle_recoil": 450,
+    "min_cycle_recoil": 2700,
     "blackpowder_tolerance": 32,
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "3 rd.", 3 ], [ "AUTO", "auto", 4 ] ],
     "valid_mod_locations": [
