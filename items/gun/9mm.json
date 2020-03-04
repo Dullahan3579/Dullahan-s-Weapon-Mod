@@ -56,6 +56,7 @@
     "blackpowder_tolerance": 48,
     "min_cycle_recoil": 450,
     "clip_size": 10,
-    "magazines": [ [ "9mm", [ "9x19_clip" ] ] ]
+    "magazines": [ [ "9mm", [ "9x19_clip" ] ] ],
+	"flags": [ "RELOAD_ONE"]
   }
 ]
