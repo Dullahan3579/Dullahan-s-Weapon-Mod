@@ -1,5 +1,5 @@
-
-{
+[
+ {
     "id": "sterling",
     "looks_like": "sten",
     "type": "GUN",
@@ -34,3 +34,28 @@
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt", "fault_gun_chamber_spent" ],
     "magazines": [ [ "9mm", [ "sterlingmag", "survivor9mm_mag" ] ] ]
   },
+  {
+    "id": "c96",
+    "copy-from": "pistol_base",
+    "looks_like": "glock_17",
+    "type": "GUN",
+    "name": { "str": "C96", "str_pl": "C69" },
+    "description": "A captured german WWII pistol.",
+    "weight": "1130 g",
+    "volume": "700 ml",
+    "price": 68000,
+    "to_hit": -2,
+    "bashing": 8,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "9mm",
+    "ranged_damage": -1,
+    "dispersion": 400,
+    "durability": 9,
+    "blackpowder_tolerance": 48,
+    "min_cycle_recoil": 450,
+    "clip_size": 10,
+    "magazines": [ [ "9mm", [ "9x19_clip" ] ] ]
+  }
+]

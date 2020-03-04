@@ -1,3 +1,4 @@
+[
 {
     "id": "sterlingmag",
     "looks_like": "mp5mag",
@@ -15,3 +16,22 @@
     "reliability": 10,
     "flags": [ "MAG_COMPACT" ]
   },
+  {
+    "id": "9x19_clip",
+    "looks_like": "stanag30",
+    "type": "MAGAZINE",
+    "name": { "str": "9x19 clip" },
+    "description": "A tiny piece of grooved metal designed to allow a shooter to quickly load a pistol.",
+    "weight": "40 g",
+    "volume": "50ml",
+    "price": 1000,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9mm",
+    "capacity": 10,
+    "flags": [ "SPEEDLOADER" ]
+  }
+  
+  
+]
