@@ -72,5 +72,5 @@
     ],
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt", "fault_gun_chamber_spent" ],
     "magazines": [ [ "308", [ "belt308" ] ] ]
-  },
+  }
  ]
