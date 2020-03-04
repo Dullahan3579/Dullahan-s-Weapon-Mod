@@ -27,6 +27,7 @@ MG3 (7.62x51)
 Stoner 63A (5.56)
 CBJ MS (9x19)
 Spectre M4(9x19)
+Bushmaster M17S (5.56)
 
 weapon mods:
 460 rowland conversion. added/stat ajustment needed
@@ -34,6 +35,7 @@ weapon mods:
 magazines:
 grizzly MK IV 7rnd(44.)
 grizzly MK V 7rnd(50. AE)
+Sterling mag 30rnd (9x19)added/stat ajustment needed
 vz 61 10rnd (32)
 vz 61 20rnd (32)
 mp5/10 30rnd (10mm)
@@ -41,11 +43,16 @@ glock 20 10rnd (10mm)
 svd 10rnd (7.62x51R)
 svd 20rnd (7.62x51R)
 MP9 30rnd (9x19)
-k98 clip(7.92x57 mauser)
-c96 clip(9x19)
-303. clip (303.)
+k98 5rnd clip(7.92x57 mauser)
+c96 10rnd clip(9x19)
+303. 5rnd clip (303.)
 1911 8rnd (10mm auto)
-
+Spectre M4 30rnd(9x19)
+Spectre M4 50rnd(9x19)
+CBJ MS 20rnd(9x19)
+CBJ MS 30rnd(9x19)
+CBJ MS 100rnd(9x19)
+STANAG 100rnd (5.56)
 ammo:
 7.92x57 mauser
 303. british
