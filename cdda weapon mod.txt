@@ -6,8 +6,8 @@ glock 20 (10mm auto)
 LAR grizzly MK IV (44 magnum)
 LAR grizzly MK V (.50 AE)
 stirling smg (9x19) added/stat ajustment needed
-HK51B (7.62x51)
-HK21E (7.62x51)
+HK51B (7.62x51) added/stat ajustment needed
+HK21E (7.62x51) added/stat ajustment needed
 Ithaca 37 (12 gauge)
 AR18 (5.56)
 FN FNC(5.56)
@@ -27,6 +27,7 @@ Stoner 63A (5.56)
 CBJ MS (9x19)
 Spectre M4(9x19)
 Bushmaster M17S (5.56)
+baretta 93r (9x19)
 
 weapon mods:
 460 rowland conversion. added/stat ajustment needed
