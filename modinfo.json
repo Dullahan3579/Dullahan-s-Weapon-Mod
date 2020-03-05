@@ -1,8 +1,8 @@
   {
     "type": "MOD_INFO",
-    "ident": "wip weapons",
-    "name": "wip weapon mod",
-    "authors": [ "Your name here", "Your friend's name if you want" ],
+    "ident": "Dullahan's Weapon Mod(WIP)",
+    "name": "Dullahan's Weapon Mod(WIP)",
+    "authors": [ "Dullahan3579"],
     "description": "Asorted firearms",
     "category": "items",
     "dependencies": [ "dda" ]
