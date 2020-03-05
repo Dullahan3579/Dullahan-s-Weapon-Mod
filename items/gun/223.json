@@ -76,7 +76,7 @@
     "looks_like": "ar15",
     "type": "GUN",
     "name": { "str": "Stoner 63A" },
-    "description": "The Stoner 63, is a 5.56×45mm NATO, modular weapon system designed by Eugene Stoner in the early 1960s. This particular rifle is in the "carbine" configuration. ",
+    "description": "The Stoner 63, is a 5.56×45mm NATO, modular weapon system designed by Eugene Stoner in the early 1960s. This particular rifle is in the \"carbine\" configuration. ",
     "weight": "3580 g",
     "volume": "1750 ml",
     "price": 240000,
