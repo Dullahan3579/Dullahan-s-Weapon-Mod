@@ -44,6 +44,6 @@
     "items": [
       { "item": "neostead", "prob": 50, "charges-min": 0, "charges-max": 12 }
     ]
-  },
+  }
   
 ]
