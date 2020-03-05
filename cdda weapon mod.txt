@@ -37,7 +37,7 @@ grizzly MK IV 7rnd(44.)
 grizzly MK V 7rnd(50. AE)
 Sterling mag 30rnd (9x19)added/stat ajustment needed
 mp5/10 30rnd (10mm)
-glock 20 10rnd (10mm)
+glock 20 15rnd (10mm)
 svd 10rnd (7.62x51R)
 svd 20rnd (7.62x51R)
 MP9 30rnd (9x19)

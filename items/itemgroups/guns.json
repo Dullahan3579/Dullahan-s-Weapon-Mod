@@ -1,0 +1,45 @@
+[
+ {
+    "type": "item_group",
+    "id": "guns_pistol_obscure",
+    "//": "Imported or otherwise very obscure pistols.",
+    "items": [
+      { "item": "mateba2006m", "prob": 100, "charges-min": 0, "charges-max": 6 },
+	  { "item": "c96", "prob": 100, "charges-min": 0, "charges-max": 10 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_smg_common",
+    "//": "SMGs commonly owned by citizens and found in many locations.",
+    "items": [
+      { "item": "sterling", "prob": 70, "charges-min": 0, "charges-max": 32 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_rifle_rare",
+    "//": "Less common rifles including those only used by police/paramilitary forces.",
+    "items": [
+      { "item": "hk_21e", "prob": 40, "charges-min": 0, "charges-max": 500 }
+      
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_rifle_obscure",
+    "//": "Imported or otherwise very obscure rifles.",
+    "items": [
+      { "item": "hk_53B", "prob": 15, "charges-min": 0, "charges-max": 500 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "guns_shotgun_obscure",
+    "//": "Imported or otherwise very obscure shotguns.",
+    "items": [
+      { "item": "neostead", "prob": 50, "charges-min": 0, "charges-max": 12 }
+    ]
+  },
+  
+]
