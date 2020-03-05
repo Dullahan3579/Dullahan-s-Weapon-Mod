@@ -9,7 +9,7 @@ stirling smg (9x19) added/stat ajustment needed
 HK51B (7.62x51) added/stat ajustment needed
 HK21E (7.62x51) added/stat ajustment needed
 Ithaca 37 (12 gauge)
-AR18 (5.56)
+AR18 (5.56) added/stat ajustment needed
 FN FNC(5.56)
 Mateba 2006m (357) added/stat ajustment needed
 MP9 (9x19)
@@ -17,16 +17,16 @@ vz 58 (7.62x39)
 SVD (7.62x51R)
 SVU (7.62x51R)
 PSL (7.62x51R)
-XP100 (5.56)
+XP100 (5.56) added/stat ajustment needed
 K98 (7.92x57 mauser)
 Mauser C96 (9x19) added/stat ajustment needed
 enfeild MKIII (303.)
 Delta Elite(10mm auto)
 MG3 (7.62x51)
-Stoner 63A (5.56)
+Stoner 63A (5.56) added/stat ajustment needed
 CBJ MS (9x19)
 Spectre M4(9x19)
-Bushmaster M17S (5.56)
+Bushmaster M17S (5.56) added/stat ajustment needed
 baretta 93r (9x19)
 
 
@@ -52,7 +52,6 @@ Spectre M4 50rnd(9x19)
 CBJ MS 20rnd(9x19)
 CBJ MS 30rnd(9x19)
 CBJ MS 100rnd(9x19)
-STANAG 100rnd (5.56)
 ammo:
 7.92x57 mauser
 303. british
