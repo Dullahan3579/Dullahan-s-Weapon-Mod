@@ -1,0 +1,13 @@
+[
+  {
+    "type": "item_group",
+    "id": "mags_surplus",
+    "//": "Obsolete military magazines no longer in common use.",
+    "items": [
+      [ "sterlingmag", 5 ],
+	  [ "9x19_clip", 5 ]
+      
+    ]
+  }
+  
+]

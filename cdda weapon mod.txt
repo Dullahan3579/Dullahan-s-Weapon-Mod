@@ -42,7 +42,7 @@ svd 10rnd (7.62x51R)
 svd 20rnd (7.62x51R)
 MP9 30rnd (9x19)
 k98 5rnd clip(7.92x57 mauser)
-c96 10rnd clip(9x19)
+c96 10rnd clip(9x19) added
 303. 5rnd clip (303.)
 1911 8rnd (10mm auto)
 Spectre M4 30rnd(9x19)
