@@ -20,6 +20,7 @@
     "dispersion": 480,
     "durability": 7,
     "min_cycle_recoil": 1413,
+	"built_in_mods": [ "folding_stock"]
     "valid_mod_locations": [
       [ "barrel", 1 ],
       [ "bore", 1 ],
