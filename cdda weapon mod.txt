@@ -28,6 +28,7 @@ CBJ MS (9x19)
 Spectre M4(9x19)
 Bushmaster M17S (5.56) added/stat ajustment needed
 baretta 93r (9x19)
+PMR-30 (22mag)
 
 
 weapon mods:
@@ -55,3 +56,4 @@ CBJ MS 100rnd(9x19)
 ammo:
 7.92x57 mauser
 303. british
+22 magnum 
