@@ -1,0 +1,11 @@
+[
+  {
+    "type": "item_group",
+    "id": "gunmod_rare",
+    "//": "Less common gunmods including those only used by police/paramilitary forces.",
+    "items": [
+      [ "retool_1911_460", 40 ]
+    ]
+  }
+  
+]
