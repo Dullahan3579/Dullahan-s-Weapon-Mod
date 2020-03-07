@@ -53,7 +53,8 @@ Spectre M4 50rnd(9x19)
 CBJ MS 20rnd(9x19)
 CBJ MS 30rnd(9x19)
 CBJ MS 100rnd(9x19)
+PMR-30 30rnd(22mag)
 ammo:
 7.92x57 mauser
 303. british
-22 magnum 
+22 magnum
