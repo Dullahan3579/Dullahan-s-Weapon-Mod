@@ -5,6 +5,7 @@
     "//": "Obsolete military magazines no longer in common use.",
     "items": [
       [ "sterlingmag", 5 ],
+	  [ "vz58mag", 5 ],
 	  [ "9x19_clip", 5 ]
       
     ]

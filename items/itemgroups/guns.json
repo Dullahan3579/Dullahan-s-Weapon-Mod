@@ -34,6 +34,7 @@
       { "item": "hk_53B", "prob": 15, "charges-min": 0, "charges-max": 500 },
 	  { "item": "s63a", "prob": 50, "charges-min": 0, "charges-max": 30 },
 	  { "item": "ar18", "prob": 50, "charges-min": 0, "charges-max": 30 },
+	  { "item": "vz58", "prob": 50, "charges-min": 0, "charges-max": 30 },
 	  { "item": "m17s", "prob": 15, "charges-min": 0, "charges-max": 30 }
     ]
   },

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "vz58",
+    "looks_like": "ar15",
+    "type": "GUN",
+    "reload_noise_volume": 10,
+    "name": { "str": "vz. 58" },
+    "description": "The vz. 58 is a 7.62x39mm assault rifle designed and manufactured in Czechoslovakia and accepted into service in the late 1950s.While externally the vz. 58 resembles the Soviet AK-47, it is a different design based on a short-stroke gas piston. It shares no parts with Kalashnikov rifles, including the magazine.",
+    "weight": "2910 g",
+    "volume": "1750 ml",
+    "price": 290000,
+    "to_hit": -1,
+    "bashing": 12,
+    "material": [ "steel", "wood" ],
+    "symbol": "(",
+    "color": "brown",
+    "ammo": "762",
+    "skill": "rifle",
+    "dispersion": 180,
+    "durability": 9,
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 4 ] ],
+    "barrel_length": "250 ml",
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "magazines": [ [ "762", [ "vz58mag" ] ] ],
+    "flags": [ "NEVER_JAMS" ]
+  }
+]
