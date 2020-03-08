@@ -57,4 +57,4 @@ PMR-30 30rnd(22mag)
 ammo:
 7.92x57 mauser
 303. british
-22 magnum
+22. magnum
