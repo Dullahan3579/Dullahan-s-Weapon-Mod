@@ -51,6 +51,7 @@ Bushmaster M17S (5.56)
 	added to item group
 baretta 93r (9x19)
 PMR-30 (22mag)
+Colt Model 635(9x19)
 
 
 weapon mods:
