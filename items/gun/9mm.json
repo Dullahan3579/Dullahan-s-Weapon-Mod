@@ -4,7 +4,7 @@
     "looks_like": "sten",
     "type": "GUN",
     "reload_noise_volume": 10,
-    "name": { "str": "Sterling SMG" },
+    "name": { "str": "Sterling L2A3" },
     "description": "A British submachine gun developed during World War II, to make up for shortages of supplies.  Designed to be made using unskilled labor and not known for reliability, its main advantages were low cost and being able to use German 9mm ammunition.",
     "weight": "3200 g",
     "volume": "1750 ml",

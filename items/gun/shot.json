@@ -1,4 +1,5 @@
-{
+[
+	{
     "id": "neostead",
     "copy-from": "shotgun_pump",
     "looks_like": "ksg",
@@ -26,4 +27,5 @@
       [ "sling", 1 ]
       
     ]
-  },
+	}
+]
