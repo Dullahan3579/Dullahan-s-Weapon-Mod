@@ -4,7 +4,7 @@
     "copy-from": "rifle_semi",
     "type": "GUN",
     "name": { "str": "AR-57" },
-    "description": "This ubiquitous rifle is the forefather of M16 rifle series.  It is lightweight and accurate, but will malfunction if not properly maintained.  This one is a semi-automatic civilian version.",
+    "description": "The AR-57 is an AR-15 modified to accept P90 magazines and fire 5.7x28mm rounds.",
     "weight": "3500 g",
     "volume": "2 L",
     "price": 125000,
