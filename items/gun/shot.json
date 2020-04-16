@@ -65,6 +65,7 @@
     "durability": 6,
     "clip_size": 12,
     "reload": 200,
+	"built_in_mods": [ "grip" ],
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],

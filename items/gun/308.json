@@ -21,6 +21,7 @@
     "durability": 8,
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "3 rd.", 3 ], [ "AUTO", "auto", 4 ] ],
 	"built_in_mods": [ "bipod" ],
+	"default_mods": [ "rifle_scope" ],
 	"valid_mod_locations": [
       [ "accessories", 3 ],
       [ "barrel", 1 ],
@@ -73,5 +74,34 @@
     ],
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt", "fault_gun_chamber_spent" ],
     "magazines": [ [ "308", [ "belt308" ] ] ]
+  },
+  {
+    "id": "wa2k",
+    "copy-from": "rifle_semi",
+    "type": "GUN",
+    "name": { "str": "WA 2000" },
+    "description": "The Walther WA 2000 is a semi-automatic bullpup sniper rifle produced by the Carl Walther GmbH Sportwaffen company from 1982 until 1988.Only 176 were built due to its high cost, making it one of the rarest and most sought production firearms ever made. ",
+    "weight": "6950 g",
+	"volume": "3000 ml",
+    "price": 195000,
+    "price_postapoc": 6500,
+    "material": [ "steel", "wood" ],
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 4 ] ],
+	"built_in_mods": [ "bipod" ],
+	"default_mods": [ "rifle_scope" ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ]
   }
  ]
