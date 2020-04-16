@@ -16,7 +16,7 @@
     "ammo_type": "22wmr",
     "casing": "22_casing",
     "range": 14,
-    "damage": { "damage_type": "stab", "amount": 18,"armor_penetration": 1 },
+    "damage": { "damage_type": "stab", "amount": 17,"armor_penetration": 1 },
     "dispersion": 60,
     "recoil": 150,
     "effects": [ "COOKOFF" ]
@@ -27,7 +27,7 @@
     "type": "AMMO",
     "name": { "str": ".22 WMR HP" },
     "description": "".22 Winchester Magnum Rimfire with 30gr hollow point bullets."",
-    "relative": { "damage": { "damage_type": "stab", "amount": +3, "armor_penetration": -1 } }
+    "relative": { "damage": { "damage_type": "stab", "amount": +2, "armor_penetration": -1 } }
   },
   {
     "id": "22_wmr_jhp",
@@ -35,5 +35,5 @@
     "type": "AMMO",
     "name": { "str": ".22 WMR JHP" },
     "description": "".22 Winchester Magnum Rimfire with 40gr jacketed hollow point bullets."",
-    "relative": { "damage": { "damage_type": "stab", "amount": +4, "armor_penetration": -1 } }
+    "relative": { "damage": { "damage_type": "stab", "amount": +3, "armor_penetration": -1 } }
   },
