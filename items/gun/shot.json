@@ -27,5 +27,24 @@
       [ "sling", 1 ]
       
     ]
-	}
+	},
+	{
+    "id": "m37",
+    "copy-from": "shotgun_pump_3gun",
+    "type": "GUN",
+    "name": { "str": "Ithica M37" },
+    "description": "The Ithaca 37 is a pump-action shotgun made in large numbers for the civilian, military, and police markets. Based on a 1915 patent by firearms designer John Browning for a shotgun initially marketed as the Remington Model 17, it utilizes a novel combination ejection/loading port on the bottom of the gun which leaves the sides closed to the elements. Since shotshells load and eject from the bottom, operation of the gun is equally convenient for both right- and left-handed shooters",
+    "weight": "3400 g",
+    "volume": "2765 ml",
+    "price": 58700,
+    "price_postapoc": 2500,
+    "to_hit": -1,
+    "bashing": 13,
+    "material": [ "steel", "plastic" ],
+    "dispersion": 305,
+    "ranged_damage": { "damage_type": "stab", "amount": 6 },
+    "durability": 8,
+    "clip_size": 8,
+    "barrel_length": "135 ml"
+  }
 ]

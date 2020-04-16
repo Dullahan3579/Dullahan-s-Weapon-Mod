@@ -59,5 +59,29 @@
     "clip_size": 10,
     "magazines": [ [ "9mm", [ "9x19_clip" ] ] ],
 	"flags": [ "RELOAD_ONE"]
+  },
+  {
+    "id": "ro635",
+    "copy-from": "rifle_auto",
+    "looks_like": "ar15",
+    "type": "GUN",
+    "name": { "str": "RO635" },
+    "description": "The RO635 is a 9×19mm Parabellum submachine gun manufactured by Colt, based on the M16 rifle.",
+    "weight": "2610 g",
+    "volume": "1500 ml",
+    "price": 240000,
+    "price_postapoc": 5000,
+    "to_hit": -1,
+    "bashing": 12,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "9mm",
+    "ranged_damage": { "damage_type": "stab", "amount": -2 },
+    "dispersion": 180,
+    "durability": 6,
+    "min_cycle_recoil": 1350,
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 4 ] ],
+    "magazines": [ [ "9mm", [ "ro635mag" ] ] ]
   }
 ]
