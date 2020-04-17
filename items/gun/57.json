@@ -19,5 +19,43 @@
     "durability": 7,
     "min_cycle_recoil": 1350,
     "magazines": [ [ "57", [ "fnp90mag" ] ] ]
+  },
+  {
+    "id": "R57",
+    "looks_like": "glock_17",
+    "type": "GUN",
+    "reload_noise_volume": 10,
+    "name": { "str": "Ruger 57" },
+    "description": "The Ruger-57 is a semi-automatic pistol chambered for the 5.7×28mm cartridge.",
+    "weight": "700 g",
+    "volume": "551 ml",
+    "price": 124900,
+    "price_postapoc": 2750,
+    "to_hit": -2,
+    "bashing": 6,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "light_gray",
+    "ammo": "57",
+    "skill": "pistol",
+    "ranged_damage": { "damage_type": "stab", "amount": -2 },
+    "dispersion": 440,
+    "durability": 8,
+    "min_cycle_recoil": 81,
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "barrel", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "magazine_well": 1,
+    "faults": [ "fault_gun_blackpowder", "fault_gun_dirt", "fault_gun_chamber_spent" ],
+    "magazines": [ [ "57", [ "r57mag" ] ] ]
   }
 ]
