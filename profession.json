@@ -1,0 +1,21 @@
+[
+  {
+    "type": "profession",
+    "ident": "stalker",
+    "name": "S.T.A.L.K.E.R",
+    "description": "You were in the middle of looting a bandit when you noticed the emmission rolling in, and jumped into a space anomaly to escape. Now you wish you took your chances wiht the emmission.",
+    "points": 4,
+    "skills": [ { "level": 3, "name": "gun" }, { "level": 3, "name": "survial" } ],
+    "traits": [ "OUTDOORSMAN" ],
+    "items": {
+      "both": {
+        "items": [ "pants_army", "socks", "shirt", "boots", "wristwatch","balaclava","backpack","hoodie","sleeping_bag_roll" ],
+        "entries": [
+          "item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "wareable_light"
+        ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "bra", "boy_shorts" ]
+    }
+  }
+]
