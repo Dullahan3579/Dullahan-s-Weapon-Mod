@@ -11,7 +11,11 @@
       "both": {
         "items": [ "pants_army", "socks", "shirt", "boots", "wristwatch","balaclava","backpack","hoodie","sleeping_bag_roll" ],
         "entries": [
-          "item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "wareable_light"
+          {"item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "wareable_light"},
+		  { "item": "ak74", "ammo-item": "545x39", "charges": 30},
+		  { "item": "ak74mag", "ammo-item": "545x39", "charges": 30},
+		  { "item": "ak74mag", "ammo-item": "545x39", "charges": 30},
+		  
         ]
       },
       "male": [ "boxer_shorts" ],
