@@ -1,4 +1,4 @@
-[[
+[
  {
     "id": "sterling",
     "looks_like": "sten",
@@ -21,7 +21,7 @@
     "blackpowder_tolerance": 24,
     "min_cycle_recoil": 450,
     "modes": [ [ "DEFAULT", "burst", 4 ] ],
-	"built_in_mods": [ "folding_stock"]
+	"built_in_mods": [ "folding_stock"],
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "muzzle", 1 ],
@@ -167,4 +167,4 @@
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt", "fault_gun_chamber_spent" ],
     "magazines": [ [ "9mm", [ "mp9mag" ] ] ]
   }
-]]
+]

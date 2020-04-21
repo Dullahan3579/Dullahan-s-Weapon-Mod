@@ -5,7 +5,7 @@
     "type": "GUN",
     "reload_noise_volume": 10,
     "name": { "str": "Kel-Tec PMR-30" },
-    "description": "",
+    "description": "keltec gun.",
     "weight": "390 g",
     "volume": "250 ml",
     "price": 36000,
