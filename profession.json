@@ -9,12 +9,13 @@
     "traits": [ "OUTDOORSMAN" ],
     "items": {
       "both": {
-        "items": [ "pants_army", "socks", "shirt", "boots", "wristwatch","balaclava","backpack","hoodie","sleeping_bag_roll" ],
+        "items": [ "pants_army", "socks", "longshirt", "boots", "wristwatch","balaclava","backpack","hoodie","sleeping_bag_roll","mag_porn" ],
         "entries": [
           {"item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "wareable_light"},
-		  { "item": "ak74", "ammo-item": "545x39", "charges": 30},
-		  { "item": "ak74mag", "ammo-item": "545x39", "charges": 30},
-		  { "item": "ak74mag", "ammo-item": "545x39", "charges": 30},
+		  { "item": "ak74", "ammo-item": "545", "charges": 30},
+		  { "item": "ak74mag", "ammo-item": "545", "charges": 30},
+		  { "item": "ak74mag", "ammo-item": "545", "charges": 30},
+		  { "item": "545", "charges": 30},
 		  
         ]
       },
