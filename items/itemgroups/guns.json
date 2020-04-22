@@ -4,9 +4,9 @@
     "id": "guns_pistol_obscure",
     "//": "Imported or otherwise very obscure pistols.",
     "items": [
-      { "item": "mateba2006m", "prob": 100, "charges-min": 0, "charges-max": 6 },
-	  { "item": "c96", "prob": 100, "charges-min": 0, "charges-max": 10 },
-	  { "item": "xp100", "prob": 100, "charges-min": 0, "charges-max": 1 }
+      { "item": "mateba2006m", "prob": 20, "charges-min": 0, "charges-max": 6 },
+	  { "item": "c96", "prob": 70, "charges-min": 0, "charges-max": 10 },
+	  { "item": "xp100", "prob": 80, "charges-min": 0, "charges-max": 1 }
     ]
   },
   {
@@ -14,7 +14,7 @@
     "id": "guns_smg_common",
     "//": "SMGs commonly owned by citizens and found in many locations.",
     "items": [
-      { "item": "sterling", "prob": 70, "charges-min": 0, "charges-max": 32 }
+      { "item": "sterling", "prob": 50, "charges-min": 0, "charges-max": 32 }
     ]
   },
   {
@@ -33,7 +33,7 @@
     "items": [
       { "item": "hk_53B", "prob": 15, "charges-min": 0, "charges-max": 500 },
 	  { "item": "s63a", "prob": 50, "charges-min": 0, "charges-max": 30 },
-	  { "item": "ar18", "prob": 50, "charges-min": 0, "charges-max": 30 },
+	  { "item": "ar18", "prob": 40, "charges-min": 0, "charges-max": 30 },
 	  { "item": "vz58", "prob": 50, "charges-min": 0, "charges-max": 30 },
 	  { "item": "m17s", "prob": 15, "charges-min": 0, "charges-max": 30 }
     ]
@@ -43,7 +43,7 @@
     "id": "guns_shotgun_obscure",
     "//": "Imported or otherwise very obscure shotguns.",
     "items": [
-      { "item": "neostead", "prob": 50, "charges-min": 0, "charges-max": 12 }
+      { "item": "neostead", "prob": 5, "charges-min": 0, "charges-max": 12 }
     ]
   }
   
