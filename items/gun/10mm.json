@@ -50,5 +50,29 @@
     ],
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt", "fault_gun_chamber_spent" ],
     "magazines": [ [ "10mm", [ "mp5/10mag"] ] ]
+  },
+  {
+    "id": "deltaelite",
+    "copy-from": "pistol_base",
+    "looks_like": "glock_17",
+    "type": "GUN",
+    "name": { "str": "Colt Delta Elite" },
+    "description": "The Colt Delta Elite is a modified M1911 pistol, Series 80 configuration, chambered for the 10mm Auto. It is similar to the M1911 in design and operation. Colt manufactured both stainless steel and blued versions with eight-round magazines. A Delta Gold Cup model was also offered for target competition. The stainless steel Government Model version has recently been reintroduced. ",
+    "weight": "1120 g",
+    "volume": "500 ml",
+    "price": 78400,
+    "price_postapoc": 2500,
+    "to_hit": -2,
+    "bashing": 12,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "light_gray",
+    "ammo": "10mm",
+    "dispersion": 480,
+    "durability": 7,
+    "min_cycle_recoil": 540,
+    "blackpowder_tolerance": 48,
+    "magazine_well": 1,
+    "magazines": [ [ "10mm", [ "deltaelite" ] ] ]
   }
 ]

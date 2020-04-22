@@ -1,0 +1,31 @@
+{
+    "id": "striker",
+    "copy-from": "shotgun_base",
+    "looks_like": "revolver_shotgun",
+    "type": "GUN",
+    "name": { "str": "Armsel Striker" },
+    "description": "A shotgun modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+    "weight": "4200 g",
+    "volume": "3 L",
+    "price": 75000,
+    "price_postapoc": 1250,
+    "to_hit": -1,
+    "bashing": 12,
+    "material": [ "steel"],
+    "dispersion": 855,
+    "durability": 6,
+    "clip_size": 12,
+    "reload": 200,
+	"built_in_mods": [ "grip" ],
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "sling", 1 ],
+      [ "stock", 1 ],
+      [ "barrel", 1 ],
+      [ "grip mount", 1 ],
+      [ "rail mount", 1 ],
+      [ "sights mount", 1 ],
+      [ "underbarrel mount", 1 ]
+    ],
+    "flags": [ "RELOAD_ONE", "RELOAD_EJECT", "NEVER_JAMS" ]
+  }

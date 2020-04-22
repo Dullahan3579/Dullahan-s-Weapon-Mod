@@ -3,9 +3,9 @@
     "type": "profession",
     "ident": "stalker",
     "name": "S.T.A.L.K.E.R",
-    "description": "You were in the middle of looting a bandit when you noticed the emmission rolling in, and jumped into a space anomaly to escape. Now you wish you took your chances wiht the emmission.",
-    "points": 4,
-    "skills": [ { "level": 3, "name": "gun" }, { "level": 3, "name": "survial" } ],
+    "description": "You were in the middle of looting a bandit when you noticed the emmission rolling in, and you jumped into a space anomaly to escape. Now you wish you took your chances wiht the emmission.",
+    "points": 5,
+    "skills": [ { "level": 4, "name": "gun" }, { "level": 3, "name": "survial" } ],
     "traits": [ "OUTDOORSMAN" ],
     "items": {
       "both": {
