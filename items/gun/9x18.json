@@ -1,0 +1,33 @@
+[
+	{
+    "id": "fort12",
+    "copy-from": "pistol_base",
+    "looks_like": "cz75",
+    "type": "GUN",
+    "name": { "str": "Fort-12" },
+    "description": "A Ukranian semi-automatic pistol chambered in 9x18 makarov.",
+    "weight": "830 g",
+    "volume": "520 ml",
+    "price": 10000,
+    "price_postapoc": 2500,
+    "to_hit": -2,
+    "bashing": 8,
+    "material": [ "plastic", "steel" ],
+    "color": "dark_gray",
+    "ammo": [ "9x18" ],
+    "dispersion": 480,
+    "durability": 8,
+    "magazines": [ [ "9x18", [ "fort12rnd"] ] ]
+	},
+	{
+    "id": "aps",
+    "copy-from": "makarov",
+    "type": "GUN",
+    "name": { "str": "Stechkin automatic pistol" },
+    "description": "A Soviet machine pistol chambered in 9x18 makarov issued to tank crews, and other non combat personel.",
+    "weight": "1220 g",
+    "price": 100000,
+    "price_postapoc": 2500,
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 6 ] ]
+	},
+]
